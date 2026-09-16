@@ -38,16 +38,9 @@ Planned expansions beyond the initial release:
 * Expansion to other collectibles beyond LEGO.
 
 ## Team
-
-_TODO: list team members and roles_
-
-## Tech Stack
-
-_TODO: list languages, frameworks, and tools (frontend, backend, database, APIs used for eBay/BrickLink data, etc.)_
-
-## Getting Started
-
-_TODO: add setup/installation instructions once the project scaffolding is in place (clone steps, dependencies, environment variables, how to run locally)_
+Ian Harres - Backend
+Immanuel Pitts - Github and where ever else help is needed
+Will Stallworth - Frontend
 
 ## Status
 
